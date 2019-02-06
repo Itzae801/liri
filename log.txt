@@ -1,0 +1,96 @@
+Command: concert-this, Argument: the
+Venue: Bord Gáis Energy Theatre
+Location: Dublin, , Ireland
+Date & Time: 11/06/2018 19:30
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: taylor swift
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, , Australia
+Date & Time: 11/02/2018 20:00
+Command: concert-this, Argument: taylor swift
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, , Australia
+Date & Time: 11/02/2018 20:00
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: taylor swift
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, , Australia
+Date & Time: 11/02/2018 20:00
+Command: concert-this, Argument: taylor swift
+Command: concert-this, Argument: the ataris
+Command: concert-this, Argument: the ataris
+No results found
+Command: concert-this, Argument: ariana grande
+No results found
+Command: concert-this, Argument: taking back sunday
+No results found
+Command: concert-this, Argument: taylor swift
+No results found
+Command: concert-this, Argument: taylor swift
+Venue: ANZ Stadium
+Location: Sydney Olympic Park, , Australia
+Date & Time: 11/02/2018 20:00
+Command: concert-this, Argument: taking back sunday
+Venue: Starland Ballroom
+Location: Sayreville, NJ, United States
+Date & Time: 12/14/2018 18:30
+Command: concert-this, Argument: taking back sunday
+Venue: Starland Ballroom
+Location: Sayreville, NJ, United States
+Date & Time: 12/14/2018 18:30
+Command: concert-this, Argument: taking back sunday
+Venue: Starland Ballroom
+Location: Sayreville, NJ, United States
+Date & Time: 12/14/2018 18:30
+Command: spotify-this-song, Argument: looking back on today
+Artist: The Ataris
+Track Name: Looking Back on Today
+Preview URL: https://p.scdn.co/mp3-preview/30b3b654f5da61fcf802d08452ff81f439224100?cid=a3deababf7254cec9f874c80082ee84e
+Album: So Long, Astoria
+Command: spotify-this-song, Argument: looking back on today
+Artist: The Ataris
+Track Name: Looking Back on Today
+Album: So Long, Astoria
+Preview URL: https://p.scdn.co/mp3-preview/30b3b654f5da61fcf802d08452ff81f439224100?cid=a3deababf7254cec9f874c80082ee84e
+Command: movie-this, Argument: scarface
+Title: Scarface
+Released: 1983
+IMDB Rating: 8.3/10
+Rotten Tomatoes Rating: 82%
+Plot: In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.
+Country: USA
+Actors: Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio
+Language: English, Spanish
+Command: moviethis
+Please enter a valid command (ie. spotify-this-song, concert-this, movie-this, do-what-it-says
+Command: movie-this, Argument: matrix
+Command: movie-this, Argument: matrix
+Title: Matrix
+Released: 1993–
+Rotten Tomatoes Rating: undefined
+Language: English
+IMDB Rating: 8.2/10
+Plot: Steven Matrix is one of the underworld's foremost hitmen until his luck runs out, and someone puts a contract out on him. Shot in the forehead by a .22 pistol, Matrix "dies" and finds ...
+Actors: Nick Mancuso, Phillip Jarrett, Carrie-Anne Moss, John Vernon
+Country: Canada
+Command: concert-this, Argument: metallica
+Venue: Don Haskins Center
+Location: El Paso, TX, United States
+Date & Time: 02/28/2019 19:30
+Command: spotify
+Please enter a valid command (ie. spotify-this-song, concert-this, movie-this, do-what-it-says
+Command: spotify-this-song, Argument: dear mama
+Artist: 2Pac
+Track Name: Dear Mama
+Album: Me Against The World
+Preview URL: null
+Command: do-what-it-says
+Command: spotify-this-song, Argument: "I Want it That Way"
+Artist: Backstreet Boys
+Track Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e60b7ca95f704f6eae94447faf05dedc
+Album: The Hits--Chapter One
